@@ -8,7 +8,8 @@
   "author": {
     "name": "ichir0roie"
   },
-  "version": "2.0.0",
+  "publisher": "ichir0roie",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.74.0"
   },
