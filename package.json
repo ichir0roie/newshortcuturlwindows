@@ -2,6 +2,12 @@
   "name": "newshortcuturlwindows",
   "displayName": "NewShortcutUrlWindows",
   "description": "generate .url file for windows.",
+  "repository": {
+    "url": "https://github.com/ichir0roie/newshortcuturlwindows"
+  },
+  "author": {
+    "name": "ichir0roie"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.65.1"
